@@ -1,0 +1,24 @@
+{
+  "name": "paymio-api",
+  "version": "0.0.1",
+  "description": "paymio api",
+  "main": "server.js",
+  "scripts": {
+    "start" : "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddgeist/paymio-api.git"
+  },
+  "author": "Todd Geist <todd@geistinteractive.com> (http://www.geisintertactive.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toddgeist/paymio-api/issues"
+  },
+  "homepage": "https://github.com/toddgeist/paymio-api#readme",
+  "dependencies": {
+    "hapi": "^11.1.2",
+    "hapi-auth-jwt2": "^5.2.1"
+  }
+}
